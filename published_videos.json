@@ -974,5 +974,21 @@
             },
             "recycled": true
         }
+    },
+    {
+        "video_name": "joined_video_20260514_230155.mp4",
+        "metadata": {
+            "title": "Stickmen: Dangerously Deadly in 3\u20262\u20261!",
+            "description": "Today\u2019s reel is pure chaos\u2014ultra-fast stickman sword choreography with anime-level timing and absolutely no chill. One wrong move and these tiny dudes go full \u201coops, I\u2019m a weapon\u201d mode. Drop a \ud83d\udd25 if you want more stickman battles\u2014comment who wins this duel, and like + follow for daily fights! Share with a fellow animation fan. #stickmanfight #animation #swordfight #anime #action #stickman #fightchoreography #minimalist #battle #speed #power #nomercy #duel",
+            "success_flags": {
+                "instagram_reel": false,
+                "instagram_story": false,
+                "facebook_reel": true,
+                "facebook_story": true,
+                "threads": false,
+                "youtube": false
+            },
+            "recycled": true
+        }
     }
 ]
